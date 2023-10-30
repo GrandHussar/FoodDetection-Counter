@@ -1,4 +1,4 @@
-# object detection and Recognize fruits
+# Fruit Detection and Counter
 Recognize fruit with Python, openCV and Google vision AI
 
 
